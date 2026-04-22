@@ -6,11 +6,16 @@ const normalizedBase = rawBase
   ? `/${rawBase.replace(/^\/+|\/+$/g, "")}/`
   : "/";
 
+// export default defineConfig({
+//   plugins: [react()],
+//   server: {
+//     host: true,
+//     port: 5173
+//   },
+//   base: normalizedBase
+// });
+
 export default defineConfig({
   plugins: [react()],
-  server: {
-    host: true,
-    port: 5173
-  },
-  base: normalizedBase
+  base: "/",   // ✅ force correct path
 });
