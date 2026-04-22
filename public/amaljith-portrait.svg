@@ -1,0 +1,36 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="48" fill="#04111D"/>
+  <rect x="36" y="36" width="728" height="828" rx="36" fill="url(#paint0_linear)" fill-opacity="0.55" stroke="url(#paint1_linear)" stroke-width="2"/>
+  <circle cx="646" cy="148" r="96" fill="url(#paint2_radial)" fill-opacity="0.9"/>
+  <circle cx="165" cy="743" r="110" fill="url(#paint3_radial)" fill-opacity="0.8"/>
+  <circle cx="401" cy="330" r="165" fill="#0D2034" stroke="#57EFFF" stroke-opacity="0.45" stroke-width="3"/>
+  <path d="M272 647C272 575.203 330.203 517 402 517V517C473.797 517 532 575.203 532 647V650H272V647Z" fill="#132B44" stroke="#7DEFFF" stroke-opacity="0.45" stroke-width="3"/>
+  <circle cx="402" cy="317" r="92" fill="#173654" stroke="#8DF7FF" stroke-opacity="0.48" stroke-width="3"/>
+  <path d="M283 154H517" stroke="#57EFFF" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+  <path d="M246 200H554" stroke="#57EFFF" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round"/>
+  <path d="M226 729H574" stroke="#FF7AE0" stroke-opacity="0.24" stroke-width="2" stroke-linecap="round"/>
+  <path d="M144 787H656" stroke="#57EFFF" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round"/>
+  <rect x="114" y="82" width="102" height="42" rx="21" fill="#57EFFF" fill-opacity="0.18" stroke="#57EFFF" stroke-opacity="0.4"/>
+  <text x="165" y="109" text-anchor="middle" fill="#DDFDFF" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">PROFILE</text>
+  <text x="401" y="774" text-anchor="middle" fill="#F3FBFF" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="10">AMALJITH</text>
+  <text x="401" y="820" text-anchor="middle" fill="#93B8D4" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="8">UI / UX DESIGNER</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="116" y1="70" x2="690" y2="835" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#112235"/>
+      <stop offset="0.52" stop-color="#0A1828"/>
+      <stop offset="1" stop-color="#13273A"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="80" y1="62" x2="726" y2="850" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#57EFFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#FF7AE0" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(646 148) rotate(90) scale(96)">
+      <stop stop-color="#57EFFF"/>
+      <stop offset="1" stop-color="#57EFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(165 743) rotate(90) scale(110)">
+      <stop stop-color="#FF7AE0"/>
+      <stop offset="1" stop-color="#FF7AE0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
